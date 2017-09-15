@@ -1,0 +1,2564 @@
+[
+  {
+    "name": "Giesing",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.594633763658,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.110810109233,
+    "products": [
+      "s",
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 1110,
+    "aliases": "Muenchen Munchen S3 S7 U2 U7 GG"
+  },
+  {
+    "name": "Hauptbahnhof",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.561105605324,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.140311418553,
+    "products": [
+      "s",
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 6,
+    "aliases": "Hbf München main station central station  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U1 U2 U4 U5 U7 U8 HU BOB Meridian ALEX"
+  },
+  {
+    "name": "Karlsplatz (Stachus)",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.565240343401,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.139166964073,
+    "products": [
+      "s",
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 1,
+    "aliases": "Stachus Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U4 U5 KA"
+  },
+  {
+    "name": "Moosach",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.507364776601,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.180420156962,
+    "products": [
+      "s",
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 300,
+    "aliases": "Bf Moosach Bahnhof Muenchen Munchen S1 U3 MO"
+  },
+  {
+    "name": "Ostbahnhof München",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.604062351127,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.128137257209,
+    "products": [
+      "s",
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 5,
+    "aliases": "Ostbhf München Ost Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U5 OB Meridian"
+  },
+  {
+    "name": "Fraunhoferstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        2,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.574308,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.129265,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 150,
+    "aliases": "Muenchen Munchen U1 U2 U7 FH"
+  },
+  {
+    "name": "Hohenzollernplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.568253763702,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.16119406959,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 140,
+    "aliases": "Muenchen Munchen U2 U8 HZ"
+  },
+  {
+    "name": "Max-Weber-Platz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.597877986728,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.135661275241,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 580,
+    "aliases": "Muenchen Munchen U4 U5 MW"
+  },
+  {
+    "name": "Münchner Freiheit",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.586287854564,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.161862848641,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 500,
+    "aliases": "Muenchner Freiheit Münchener Muenchener Munchner Munchener Muenchen Munchen U3 U6 MU"
+  },
+  {
+    "name": "Petuelring",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.566574447136,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.175460187839,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 340,
+    "aliases": "Muenchen Munchen U3 U8 PR"
+  },
+  {
+    "name": "Rotkreuzplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.533499306088,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.152982425064,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 190,
+    "aliases": "Muenchen Munchen U1 U7 RO"
+  },
+  {
+    "name": "Scheidplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        3,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.572685107125,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.171472007062,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 400,
+    "aliases": "Muenchen Munchen U2 U3 U8 SP"
+  },
+  {
+    "name": "Sendlinger Tor",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.566645600586,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.13343448123,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 50,
+    "aliases": "Muenchen Munchen U1 U2 U3 U6 U7 U8 SE"
+  },
+  {
+    "name": "Silberhornstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.579450309045,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.115162410127,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 1170,
+    "aliases": "Muenchen Munchen U2 U7 SI"
+  },
+  {
+    "name": "Westendstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.522610044644,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.134420396856,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 260,
+    "aliases": "Muenchen Munchen MVG Fundbüro Fundburo Fundbuero Fundbureau U4 U5 WS"
+  },
+  {
+    "name": "Westfriedhof",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.528444236065,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.169311745017,
+    "products": [
+      "u",
+      "t",
+      "b"
+    ],
+    "type": "station",
+    "id": 200,
+    "aliases": "SWM MVG Muenchen Munchen U1 U7 WF"
+  },
+  {
+    "name": "Feldmoching",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.540619730627,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.213581069106,
+    "products": [
+      "s",
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 320,
+    "aliases": "Bf Feldmoching Bahnhof Muenchen Munchen S1 U2 FM"
+  },
+  {
+    "name": "Harras",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.536203053844,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.116875876927,
+    "products": [
+      "s",
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1130,
+    "aliases": "Bf Harras Bahnhof Harras Muenchen Munchen S7 U6 HS BOB Meridian"
+  },
+  {
+    "name": "Heimeranplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.53346156317,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.133394684595,
+    "products": [
+      "s",
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1150,
+    "aliases": "Bf Heimeranplatz Bahnhof Heimeranplatz Muenchen Munchen S7 S20 U4 U5 HP Meridian"
+  },
+  {
+    "name": "Marienplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.576464334296,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.136978451777,
+    "products": [
+      "s",
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 2,
+    "aliases": "Rathaus München  Muenchen Munchen S1 S2 S3 S4 S6 S7 S8 U3 U6 MP"
+  },
+  {
+    "name": "Neuperlach Süd",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.64441434071,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.089498320463,
+    "products": [
+      "s",
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1010,
+    "aliases": "Sued Sid Muenchen Munchen S7 U5 NS"
+  },
+  {
+    "name": "Trudering",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.66333495551,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.12551990564,
+    "products": [
+      "s",
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 920,
+    "aliases": "Muenchen Munchen S4 S6 U2 TR"
+  },
+  {
+    "name": "Kreillerstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.644581100497,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.125742337349,
+    "products": [
+      "u",
+      "t"
+    ],
+    "type": "station",
+    "id": 1230,
+    "aliases": "Muenchen Munchen U2 KR"
+  },
+  {
+    "name": "Lehel",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.588562571724,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.139603432287,
+    "products": [
+      "u",
+      "t"
+    ],
+    "type": "station",
+    "id": 590,
+    "aliases": "Muenchen Munchen U4 U5 LH"
+  },
+  {
+    "name": "Stiglmaierplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.558841719489,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.147353572268,
+    "products": [
+      "u",
+      "t"
+    ],
+    "type": "station",
+    "id": 170,
+    "aliases": "Stiegelmayerplatz Muenchen Munchen U1 U7 SM"
+  },
+  {
+    "name": "Wettersteinplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.574745137428,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.109200467194,
+    "products": [
+      "u",
+      "t"
+    ],
+    "type": "station",
+    "id": 1190,
+    "aliases": "Muenchen Munchen U1 WT"
+  },
+  {
+    "name": "Aidenbachstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.523713624995,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.097839711514,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1460,
+    "aliases": "Muenchen Munchen U3 AB"
+  },
+  {
+    "name": "Am Hart",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.571800515283,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.197009730489,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 760,
+    "aliases": "Muenchen Munchen U2 HA"
+  },
+  {
+    "name": "Arabellapark",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.620455635608,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.153113117919,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 670,
+    "aliases": "Muenchen Munchen U4 AR"
+  },
+  {
+    "name": "Brudermühlstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.548694450184,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.112168018954,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1430,
+    "aliases": "Brudermuehlstr Brudermuhlstr Muenchen Munchen U3 BL"
+  },
+  {
+    "name": "Böhmerwaldplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.615384488459,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.142870832689,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 560,
+    "aliases": "Boehmerwaldplatz Bohmerwaldplatz Muenchen Munchen U4 BO"
+  },
+  {
+    "name": "Candidplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.569770628437,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.111520270614,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1180,
+    "aliases": "Muenchen Munchen U1 CP"
+  },
+  {
+    "name": "Dietlindenstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.590310088188,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.166562764551,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 510,
+    "aliases": "Muenchen Munchen U6 DI"
+  },
+  {
+    "name": "Dülferstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.562505543548,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.212820948035,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 780,
+    "aliases": "Duelferstr Dulferstr Muenchen Munchen U2 DF"
+  },
+  {
+    "name": "Forstenrieder Allee",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.498449547921,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.094755525685,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1480,
+    "aliases": "Muenchen Munchen U3 FO"
+  },
+  {
+    "name": "Frankfurter Ring",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.572673211094,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.187489067308,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 750,
+    "aliases": "Muenchen Munchen U2 FF"
+  },
+  {
+    "name": "Fürstenried West",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.480387722218,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.088613773401,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1500,
+    "aliases": "Fuerstenried Furstenried Muenchen Munchen U3 FW"
+  },
+  {
+    "name": "Garching",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.652492385448,
+    "hasZoomData": true,
+    "place": "Garching (b München)",
+    "hasLiveData": true,
+    "latitude": 48.249415353792,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 490,
+    "aliases": "Muenchen Munchen U6 GR"
+  },
+  {
+    "name": "Garching-Forschungszentrum",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.671218081826,
+    "hasZoomData": true,
+    "place": "Garching (b München)",
+    "hasLiveData": true,
+    "latitude": 48.264857663519,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 460,
+    "aliases": "Muenchen Munchen U6 GF"
+  },
+  {
+    "name": "Garching-Hochbrück",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.63076170495,
+    "hasZoomData": true,
+    "place": "Garching (b München)",
+    "hasLiveData": true,
+    "latitude": 48.247216355713,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 480,
+    "aliases": "Garching-Hochbrueck Hochbruck Muenchen Munchen U6 GK"
+  },
+  {
+    "name": "Georg-Brauchle-Ring",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.529078600751,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.176392098422,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 312,
+    "aliases": "SWM MVG Muenchen Munchen U1 GB"
+  },
+  {
+    "name": "Giselastraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.584995120894,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.157136686617,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 80,
+    "aliases": "Muenchen Munchen U3 U6 GI"
+  },
+  {
+    "name": "Goetheplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.558349377354,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.129526791655,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 40,
+    "aliases": "Wiesn Oktoberfest Muenchen Munchen U3 U6 GO"
+  },
+  {
+    "name": "Großhadern",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.477242478238,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.11554391618,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1530,
+    "aliases": "Grosshadern Muenchen Munchen U6 GH"
+  },
+  {
+    "name": "Haderner Stern",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.490120634117,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.118416647383,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1520,
+    "aliases": "Muenchen Munchen U6 HD"
+  },
+  {
+    "name": "Harthof",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.568627329893,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.204867011681,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 770,
+    "aliases": "Muenchen Munchen U2 HF"
+  },
+  {
+    "name": "Hasenbergl",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.55629900932,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.213219880176,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 790,
+    "aliases": "Muenchen Munchen U2 HL"
+  },
+  {
+    "name": "Holzapfelkreuth",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.502282459563,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.116329459399,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1510,
+    "aliases": "Muenchen Munchen U6 HK"
+  },
+  {
+    "name": "Implerstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.548349793935,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.119325431929,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1140,
+    "aliases": "Muenchen Munchen U3 U6 IP"
+  },
+  {
+    "name": "Josephsburg",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.634576248733,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.127257880775,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1220,
+    "aliases": "Muenchen Munchen U2 JB"
+  },
+  {
+    "name": "Josephsplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.566264584009,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.154774329388,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 130,
+    "aliases": "Muenchen Munchen U2 U8 JO"
+  },
+  {
+    "name": "Karl-Preis-Platz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.609509015743,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.11846097266,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1070,
+    "aliases": "Muenchen Munchen U2 U7 KP"
+  },
+  {
+    "name": "Kieferngarten",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.612502773815,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.202666790191,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 430,
+    "aliases": "Muenchen Munchen U6 KG"
+  },
+  {
+    "name": "Klinikum Großhadern",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.473845384212,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.108882280027,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1540,
+    "aliases": "Klinikum Grosshadern Muenchen Munchen U6 KL"
+  },
+  {
+    "name": "Kolumbusplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        2,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.576315391647,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.119126003307,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 160,
+    "aliases": "Muenchen Munchen U1 U2 U7 KO"
+  },
+  {
+    "name": "Königsplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.563998657055,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.14617710321,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 110,
+    "aliases": "Lenbachhaus Glyptothek Koenigsplatz Kunstareal konigsplatz Muenchen Munchen U2 U8 KN"
+  },
+  {
+    "name": "Laimer Platz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.502957597405,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.13547036259,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 280,
+    "aliases": "Muenchen Munchen U5 LP"
+  },
+  {
+    "name": "Machtlfinger Straße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.513453737502,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.098120550203,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1470,
+    "aliases": "Muenchen Munchen U3 MR"
+  },
+  {
+    "name": "Mangfallplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.580960395271,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.097891531767,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1210,
+    "aliases": "Muenchen Munchen U1 ML"
+  },
+  {
+    "name": "Messestadt Ost",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.703669194437,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.133365070051,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1260,
+    "aliases": "Messe Ost Muenchen Munchen U2 MS"
+  },
+  {
+    "name": "Messestadt West",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.689750226117,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.133427343483,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1250,
+    "aliases": "Messe West Muenchen Munchen U2 ME"
+  },
+  {
+    "name": "Michaelibad",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.63059348171,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.118782378733,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1050,
+    "aliases": "Muenchen Munchen U5 U7 MC"
+  },
+  {
+    "name": "Milbertshofen",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.573115720534,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.181159416465,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 740,
+    "aliases": "Muenchen Munchen U2 MI"
+  },
+  {
+    "name": "Neuperlach Zentrum",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.647423439345,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.100974216846,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1030,
+    "aliases": "PEP Muenchen Munchen U5 U7 NZ"
+  },
+  {
+    "name": "Nordfriedhof",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.597395253021,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.173395712786,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 520,
+    "aliases": "Muenchen Munchen U6 NF"
+  },
+  {
+    "name": "Obersendling",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.53803422702,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.098356761011,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1450,
+    "aliases": "Muenchen Munchen U3 OS"
+  },
+  {
+    "name": "Oberwiesenfeld",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.54570586467,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.186180702449,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 380,
+    "aliases": "Muenchen Munchen U3 ON"
+  },
+  {
+    "name": "Odeonsplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.577398769587,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.142638723686,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 60,
+    "aliases": "Muenchen Munchen U3 U4 U5 U6 OD"
+  },
+  {
+    "name": "Olympia-Einkaufszentrum",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.529538427884,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.181987828212,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 360,
+    "aliases": "OEZ Muenchen Munchen U1 U3 OE"
+  },
+  {
+    "name": "Olympiazentrum",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.555922946517,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.178846048395,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 350,
+    "aliases": "Muenchen Munchen U3 U8 OZ"
+  },
+  {
+    "name": "Partnachplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.526294978953,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.116466787778,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1330,
+    "aliases": "Muenchen Munchen U6 PA"
+  },
+  {
+    "name": "Poccistraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.549615775498,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.125086177729,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 30,
+    "aliases": "Wiesn Oktoberfest Poccistrasse Muenchen Munchen U3 U6 PC"
+  },
+  {
+    "name": "Prinzregentenplatz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.606851394312,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.139388551528,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 570,
+    "aliases": "Muenchen Munchen U4 PZ"
+  },
+  {
+    "name": "Quiddestraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.646414520794,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.109101182,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1040,
+    "aliases": "Muenchen Munchen U5 U7 QI"
+  },
+  {
+    "name": "Richard-Strauss-Straße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.616293954481,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.148863450611,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 680,
+    "aliases": "Strauß Muenchen Munchen U4 RS"
+  },
+  {
+    "name": "Schwanthalerhöhe",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.53981294648,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.133770998793,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 250,
+    "aliases": "Schwanthalerhoehe Wiesn Oktoberfest Schwanthalerhohe Muenchen Munchen U4 U5 SH"
+  },
+  {
+    "name": "St.-Quirin-Platz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.581783951888,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.103956107544,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1200,
+    "aliases": "St-Quirin-Platz St Quirin Platz Muenchen Munchen U1 SQ"
+  },
+  {
+    "name": "Studentenstadt",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.608022505693,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.183289061225,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 540,
+    "aliases": "Muenchen Munchen U6 ST"
+  },
+  {
+    "name": "Thalkirchen (Tierpark)",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.546613356202,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.101412680888,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1440,
+    "aliases": "Zoo Hellabrunn Muenchen Munchen U3 TK"
+  },
+  {
+    "name": "Universität",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3,
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.580504727546,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.149008399079,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 70,
+    "aliases": "LMU Ludwig-Maximilians-Universität Uni Universitaet Universitat Muenchen Munchen U3 U6 UN"
+  },
+  {
+    "name": "Westpark",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.517109217926,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.117822589066,
+    "products": [
+      "u",
+      "b"
+    ],
+    "type": "station",
+    "id": 1340,
+    "aliases": "Muenchen Munchen U6 WP"
+  },
+  {
+    "name": "Alte Heide",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.603815767577,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.179470491181,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 530,
+    "aliases": "Muenchen Munchen U6 AH"
+  },
+  {
+    "name": "Basler Straße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.490288651541,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.090528705693,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 1490,
+    "aliases": "Muenchen Munchen U3 BA"
+  },
+  {
+    "name": "Bonner Platz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.578650839843,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.167006322032,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 410,
+    "aliases": "Muenchen Munchen U3 BP"
+  },
+  {
+    "name": "Freimann",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.614530410288,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.192394267904,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 420,
+    "aliases": "Muenchen Munchen U6 FR"
+  },
+  {
+    "name": "Friedenheimer Straße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.509460550926,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.135453299087,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 270,
+    "aliases": "Muenchen Munchen U5 FI"
+  },
+  {
+    "name": "Fröttmaning",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        6
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.618214743635,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.21067189599,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 470,
+    "aliases": "Allianz Arena Froettmaning Frottmaning Fröttmanning Muenchen Munchen U6 FT"
+  },
+  {
+    "name": "Gern",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.528967981083,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.163495193962,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 990,
+    "aliases": "Muenchen Munchen U1 U7 GE"
+  },
+  {
+    "name": "Innsbrucker Ring",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        5,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.619138144743,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.120408830252,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 1060,
+    "aliases": "Muenchen Munchen U2 U5 U7 IR"
+  },
+  {
+    "name": "Maillingerstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        1,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.546160256745,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.149885365695,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 180,
+    "aliases": "Muenchen Munchen U1 U7 MA"
+  },
+  {
+    "name": "Moosacher St.-Martins-Platz",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        3
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.517302790234,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.181802268315,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 370,
+    "aliases": "St Martins Muenchen Munchen U3 MM"
+  },
+  {
+    "name": "Moosfeld",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.670744972655,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.130505683933,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 1240,
+    "aliases": "Am Moosfeld Muenchen Munchen U2 MF"
+  },
+  {
+    "name": "Therese-Giehse-Allee",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.642925726428,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.095123611633,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 1020,
+    "aliases": "Muenchen Munchen U5 TG"
+  },
+  {
+    "name": "Theresienstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        8
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.564265083445,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.151223392647,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 120,
+    "aliases": "Muenchen Munchen U2 U8 TH"
+  },
+  {
+    "name": "Theresienwiese",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        4,
+        5
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.552197158965,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.1356545024,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 240,
+    "aliases": "Wiesn Oktoberfest Muenchen Munchen U4 U5 TW"
+  },
+  {
+    "name": "Untersbergstraße",
+    "lines": {
+      "sbahn": [],
+      "tram": [],
+      "bus": [],
+      "nachtbus": [],
+      "ubahn": [
+        2,
+        7
+      ],
+      "otherlines": [],
+      "nachttram": []
+    },
+    "longitude": 11.587057583511,
+    "hasZoomData": true,
+    "place": "München",
+    "hasLiveData": true,
+    "latitude": 48.112761730833,
+    "products": [
+      "u"
+    ],
+    "type": "station",
+    "id": 1160,
+    "aliases": "Muenchen Munchen U2 U7 UB"
+  }
+]
