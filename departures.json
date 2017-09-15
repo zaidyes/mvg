@@ -1,0 +1,145 @@
+[
+  {
+    "departureId": -954068774,
+    "sev": false,
+    "departureTime": 1505400603000,
+    "destination": "Theresienwiese",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 0,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": -497255891,
+    "sev": false,
+    "departureTime": 1505400628000,
+    "destination": "Neuperlach Süd",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 1,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 1523598154,
+    "sev": false,
+    "departureTime": 1505400664000,
+    "destination": "Laimer Platz",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 1,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": -1355185886,
+    "sev": false,
+    "departureTime": 1505400762000,
+    "destination": "Theresienwiese",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 3,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": -949378088,
+    "sev": false,
+    "departureTime": 1505400770000,
+    "destination": "Arabellapark",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 3,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": -1225347555,
+    "sev": false,
+    "departureTime": 1505400950000,
+    "destination": "Neuperlach Süd",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 6,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 603516282,
+    "sev": false,
+    "departureTime": 1505400978000,
+    "destination": "Laimer Platz",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 7,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 1849171650,
+    "sev": false,
+    "departureTime": 1505401070000,
+    "destination": "Theresienwiese",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 8,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": 2075476408,
+    "sev": false,
+    "departureTime": 1505401070000,
+    "destination": "Arabellapark",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 8,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": 333045149,
+    "sev": false,
+    "departureTime": 1505401190000,
+    "destination": "Neuperlach Süd",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 10,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": -226814070,
+    "sev": false,
+    "departureTime": 1505401296000,
+    "destination": "Laimer Platz",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 12,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 575937058,
+    "sev": false,
+    "departureTime": 1505401370000,
+    "destination": "Theresienwiese",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 13,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": 802241816,
+    "sev": false,
+    "departureTime": 1505401370000,
+    "destination": "Arabellapark",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 13,
+    "lineBackgroundColor": "#04af90"
+  }
+]
