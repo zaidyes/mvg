@@ -13,14 +13,22 @@ ids =  "1110 , 6 , 1 , 300 , 5 , 150 , 140 , 580 , 500 , 340 , 190 , 400 , 50 , 
 ids = ids.replace(" ", "").split(',')
 
 
-res = get_departures(1)
-refinedRes = []
-for x in res:
-	#print x
-	if x['product'] == 'u':
-		refinedRes.append(x)
 
-refJson = json.dumps(refinedRes)
 
-with open('departures.json','w') as file:
-	file = json.dump(refinedRes, file)
+def filter(departures):
+	refinedRes = []
+	for x in departures:
+		if x['product'] == 'u':
+			refinedRes.append(x)
+
+	return refinedRes;
+
+def jsonToFile(jsonObj, fileName):
+	with open(fileName,'w') as file:
+		file = json.dump(jsonObj, file)
+
+karlsplatzDeps = filter(get_departures(1))
+hauptbahnofDeps = filter(get_departures(6))
+
+jsonToFile(karlsplatzDeps, 'departures_karlsplatz.json')
+jsonToFile(hauptbahnofDeps, 'departures_hbf.json')

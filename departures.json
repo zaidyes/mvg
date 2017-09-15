@@ -1,5 +1,8 @@
 [
   {
+  	"stationId": 1
+  },
+  {
     "departureId": -954068774,
     "sev": false,
     "departureTime": 1505400603000,

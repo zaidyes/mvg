@@ -39,10 +39,12 @@
 			this.end = "";
 			this.lastStationId = '';
 			this.nextStationId = '';
+			this.lineColor = '';
 		}
 	};
 
 	var totalUbahns = 8;
+	var stations;
 
 	///UTILITIES
 	// Get all the ubahn stations
@@ -114,6 +116,35 @@
 						.bindPopup(popupTxt).openPopup();
 		}
 	};
+
+	function getStation(stationId) {
+		var station = null;
+		for(var i = 0; i < stations.length; ++i) {
+			if (stations[i].id == stationId) {
+				station = stations[i];
+				break;
+			}
+		}
+
+		return station;
+	}
+
+	function drawULines(ubahns) {
+		console.log(ubahns.length);
+		for (var i = 0; i < ubahns.length; ++i) {			
+			var ubahn = ubahns[i];
+			console.log("drawing ubahn:" + ubahn.label);
+			var latlngs = [];
+			for (var j = 0; j < ubahn.stationIds.length; ++j) {
+				var stationId = ubahn.stationIds[j];
+				var station = getStation(stationId);
+				latlngs.push([station.latitude, station.longitude]);
+			}
+			console.log(latlngs);
+			var polyline = L.polyline(latlngs, {color: ubahn.lineColor}).addTo(mymap);
+		}
+	}
+
 	/*
 	function drawUbahns(departures) {
 		var stationId = departures[0].stationId;
@@ -130,21 +161,22 @@
 			var 
 		}
 	}*/
+	
 
-	var stations;
-
-	$.getJSON("stations_detailed.json", function(json) {
-    	var ubahns = buildUbahns(json);
-    	console.log(JSON.stringify(ubahns));
-    	stations = json;
-    	drawStations(stations);    	
+	$.when(
+		$.getJSON("stations_detailed.json", function(json) {
+	    	//var ubahns = buildUbahns(json);
+	    	//console.log(JSON.stringify(ubahns));
+	    	stations = json;
+	    	drawStations(stations);    
+		})
+	).then(function(){
+		console.log("blah");
+		$.getJSON("ubahns.json", function(ubahns) {    	
+			
+			drawULines(ubahns);    	
+		})
 	});
-	/*
-	$.getJSON("departures.json", function(json) {
-    	//var ubahns = buildUbahns(json);
-    	//console.log(JSON.stringify(ubahns));
-    	drawStations(json);    	
-	});*/
 
 </script>
 

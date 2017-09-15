@@ -1,0 +1,123 @@
+[
+  {
+    "departureId": 341182933,
+    "sev": false,
+    "departureTime": 1505483783000,
+    "destination": "Neuperlach Süd",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 0,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 1252334283,
+    "sev": false,
+    "departureTime": 1505483990000,
+    "destination": "Theresienwiese",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 3,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 684579995,
+    "sev": false,
+    "departureTime": 1505484050000,
+    "destination": "Neuperlach Zentrum",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 4,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": -1992540262,
+    "sev": false,
+    "departureTime": 1505484087000,
+    "destination": "Westendstraße",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 5,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": 1576812696,
+    "sev": false,
+    "departureTime": 1505484170000,
+    "destination": "Arabellapark",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 6,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": 967866106,
+    "sev": false,
+    "departureTime": 1505484290000,
+    "destination": "Laimer Platz",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 8,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 1300843229,
+    "sev": false,
+    "departureTime": 1505484350000,
+    "destination": "Neuperlach Süd",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 9,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": -1291013109,
+    "sev": false,
+    "departureTime": 1505484590000,
+    "destination": "Theresienwiese",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 13,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": -1858767397,
+    "sev": false,
+    "departureTime": 1505484650000,
+    "destination": "Neuperlach Zentrum",
+    "product": "u",
+    "label": "5",
+    "live": true,
+    "departureTimeMinutes": 14,
+    "lineBackgroundColor": "#b78730"
+  },
+  {
+    "departureId": 317295074,
+    "sev": false,
+    "departureTime": 1505484710000,
+    "destination": "Westendstraße",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 15,
+    "lineBackgroundColor": "#04af90"
+  },
+  {
+    "departureId": -960291112,
+    "sev": false,
+    "departureTime": 1505484770000,
+    "destination": "Arabellapark",
+    "product": "u",
+    "label": "4",
+    "live": true,
+    "departureTimeMinutes": 16,
+    "lineBackgroundColor": "#04af90"
+  }
+]
